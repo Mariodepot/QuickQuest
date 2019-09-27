@@ -18,6 +18,6 @@ L['ALT key'] = ALT_KEY
 L['CTRL key'] = CTRL_KEY
 L['SHIFT key'] = SHIFT_KEY
 
-L['Never'] = NEVER
-L['Always'] = ALWAYS
-L['Soloing'] = 'Soloter'
+L['Never'] = Jamais
+L['Always'] = Toujour
+L['Soloing'] = 'En solo'
